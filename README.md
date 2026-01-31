@@ -1,5 +1,20 @@
-Authentication Web Application
+## 🔐 Authentication Web App (Flask)
 
-This project is a simple authentication system built using Flask and SQLite.
-It includes user registration, login, dashboard, and logout functionality.
-The project demonstrates backend development, session handling, and database integration.
+A simple authentication system with user registration, login, session management, and dashboard using Flask and SQLite.
+
+### 🚀 Live Demo
+https://auth-web-app-5kf0.onrender.com
+
+### 🛠 Tech Stack
+- Python
+- Flask
+- SQLite
+- HTML/CSS
+- Render (Deployment)
+
+### ✨ Features
+- User Registration
+- User Login
+- Session-based Authentication
+- Protected Dashboard
+- Logout
